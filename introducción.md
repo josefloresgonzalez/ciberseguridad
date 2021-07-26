@@ -66,3 +66,12 @@ Here are some more as well as a link to using sec onion and tcpreplay
 
 https://github.com/Security-Onion-Solutions/security-onion/wiki/Pcaps
 
+PARA HACER CTF DE BLUE TEAMS
+https://cyberdefenders.org/labs/
+
+INCIDENT-RESPONSE TRAINING
+https://www.jaiminton.com/cheatsheet/DFIR/#binalyze-irec-evidence-collector-gui-or-
+https://freetraining.dfirdiva.com/category/free-training-categories/dfir-related-training/incident-response
+
+
+try hack me - https://blog.razrsec.uk/tryhackme-disk-analysis-autopsy/ write up
