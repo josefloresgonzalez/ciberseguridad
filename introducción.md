@@ -37,3 +37,32 @@ Resulta que tenemos que realizar un poco de investigación de la información re
 https://www.malware-traffic-analysis.net/index.html
 Ejercicios de entrenamiento.
 https://www.malware-traffic-analysis.net/training-exercises.html Con sus respectivas soluciones.
+
+
+
+EN UN CURSO DE OSINT CON CARLOS SEIS DEDOS.
+IKY.Búsquedas de Email.
+https://github.com/kennbroorg/iKy
+
+
+CURSOS DE BLUE TEAM
+https://www.networkdefense.io/library/
+
+INFORMACIÓN PARA BLUE TEAM
+https://community.infosecinstitute.com/discussion/132903/which-blue-team-labs-do-you-know
+There is a summary of all options we've collected for Blue Team Labs during this thread:
+1. Chris Long Detection Lab (free).
+2. Hand made Security Onion/Vulnhub lab (free).
+3. Boss of the SOC Datasets with Splunk (free).
+4. Traffic analysis exercises on Malware-Traffic-Analysis.net (free).
+5. Cybrary Insider Pro labs (cheap)
+6. SANS NetWars (Core Continuous/DFIR) (very expensive).
+7. ISACA CSX Labs (expensive).
+8. Immersive Labs (free if you have a .edu email).
+9. eLearnSecurity Hera Labs (expensive).
+
+
+Here are some more as well as a link to using sec onion and tcpreplay
+
+https://github.com/Security-Onion-Solutions/security-onion/wiki/Pcaps
+
