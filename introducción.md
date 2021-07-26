@@ -68,6 +68,7 @@ https://github.com/Security-Onion-Solutions/security-onion/wiki/Pcaps
 
 PARA HACER CTF DE BLUE TEAMS
 https://cyberdefenders.org/labs/
+https://mydfir.com/category/ctf-walkthrough/cyberdefenders/ write up de una maquina de cyberdefender
 
 INCIDENT-RESPONSE TRAINING
 https://www.jaiminton.com/cheatsheet/DFIR/#binalyze-irec-evidence-collector-gui-or-
